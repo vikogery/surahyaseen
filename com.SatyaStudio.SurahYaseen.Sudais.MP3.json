@@ -78,28 +78,8 @@ you need to try download this too bro
 ]
 ,"Mp3": [
 
-  {    "name_mp3": "Beauty_Floet.mp3",    "link_mp3": "Beauty_Floet.mp3"  },
-  {    "name_mp3": "Nature_Piano.mp3",    "link_mp3": "Nature_Piano.mp3"  },
-  {    "name_mp3": "Water_Sound.mp3",    "link_mp3": "Water_Sound.mp3"  },
-  {    "name_mp3": "DJBERNYANYI.mp3",    "link_mp3": "https://ia802902.us.archive.org/28/items/gerejatuapanbersfeliixirwancover_202003/Gereja%20Tua%20Panbers%20%28%20Feliix%20Irwan%20Cover%20%29.mp4"  },
-  {    "name_mp3": "ingin hilang ingatan",    "link_mp3": "https://ia802907.us.archive.org/11/items/inginhilangingatan/Ingin%20hilang%20ingatan.mp3"  }
-
-
-],
-"Wallpaper": [
-
- {    "image": "https://images.wallpapersden.com/image/download/pink-sky-in-urban-city_64746_4000x6000.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp3761429.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp6235495.jpg"  },
- {    "image": "https://wallpapercave.com/wp/wp5975713.jpg"  },
- {    "image": "https://w.wallhaven.cc/full/73/wallhaven-737jwy.jpg"  },
- {    "image": "file:///android_asset/wallpaper (1).jpg"  },
- {    "image": "file:///android_asset/wallpaper (2).jpg"  },
- {    "image": "file:///android_asset/wallpaper (3).jpg"  },
- {    "image": "file:///android_asset/wallpaper (4).jpg"  },
- {    "image": "file:///android_asset/wallpaper (5).jpg"  },
- {    "image": "file:///android_asset/wallpaper (6).jpg"  },
- {    "image": "file:///android_asset/wallpaper (7).jpg"  }
+  
+  {    "name_mp3": "Surah Yaseen - 36th sūrah of the Quran - 83 verses",    "link_mp3": "https://archive.org/download/AbdulRahmanAlSudais036YaSin/Abdul_Rahman_Al-Sudais-036-YaSin.mp3"  }
 
 ]
 }
