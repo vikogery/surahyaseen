@@ -5,7 +5,7 @@
 //  STATUS_APP = "0" must set 0 if your app still live on playstore
 //  and STATUS_APP = "1" if your app "suspend"
 //  fill LINK_REDIRECT with new link app
-"STATUS_APP" : "1",
+"STATUS_APP" : "0",
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.zerocorp.bmwwallpaper",
 
 // memanggil data dari json "online" atau json "offline"
@@ -19,7 +19,7 @@
 "MODE_BACKUP_ADS" : true,
 "MODE_NO_ADS" : false,
 "ADS_ON_START" : true, // CTR NAIK PESAT
-"ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
 "JSON_POPUP_WAIT" : "Please wait . . .",
 "MODE_NO_ADS_TRUE" : "Pro Version Actived",
@@ -30,9 +30,9 @@
 // UNITY      backup startapp
 // TAPDAQ     backup unity backup startapp
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
-"INTER_COUNT" : 3,
+"PENGATURAN_IKLAN_BANNER" : "UNITY",
+"PENGATURAN_IKLAN_INTER" : "UNITY",
+"INTER_COUNT" : 1,
 
 "ADMOB_INTER" : "ca-app-pub-4765095539204939/2643920924",
 "ADMOB_BANNER" : "ca-app-pub-4765095539204939/3957002597",
@@ -41,13 +41,13 @@
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 
-"UNITY_BANNER" : "Banner_Android",
-"UNITY_INTERSTITIAL" : "Interstitial_Android",
-"UNITY_GAME_ID" : "4440465",
+"UNITY_BANNER" : "Banner_Androxid",
+"UNITY_INTERSTITIAL" : "Interstxxitial_Android",
+"UNITY_GAME_ID" : "4440465xx",
 
 "STARTAPPID" : "200513159",
 "ENABLE_STRAP" : true,
-"ENABLE_STRAP_SPLAHSCREEN" : false,
+"ENABLE_STRAP_SPLAHSCREEN" : true,
 
 "TAPDAQ_APP_ID" : "6187c4dd86c31c4e07c111de",
 "TAPDAQ_CLIENT_KEY" : "c87e612c-3527-4c3d-a1ad-326c62686410",
